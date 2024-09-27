@@ -77,7 +77,3 @@ The choice of model can depend on the application: Logistic Regression may be pr
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
 - [Pandas Documentation](https://pandas.pydata.org/)
 - [Matplotlib Documentation](https://matplotlib.org/)
-
----
-
-This `README.md` file provides a clear, structured overview of your project, including the dataset description, the machine learning models used, the workflow, results, and future directions. Let me know if you'd like any adjustments!
